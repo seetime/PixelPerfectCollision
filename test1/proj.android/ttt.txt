@@ -1,0 +1,229 @@
+make: Entering directory `/cygdrive/c/Development/cocos2d-2.0-rc2-x-2.0.1/test1/proj.android'
+Gdbserver      : [arm-linux-androideabi-4.4.3] libs/armeabi/gdbserver
+Gdbsetup       : libs/armeabi/gdb.setup
+Gdbserver      : [arm-linux-androideabi-4.4.3] libs/armeabi-v7a/gdbserver
+Gdbsetup       : libs/armeabi-v7a/gdb.setup
+Gdbserver      : [x86-4.4.3] libs/x86/gdbserver
+Gdbsetup       : libs/x86/gdb.setup
+Compile++ thumb  : game_shared <= HelloWorldScene.cpp
+Prebuilt       : libgnustl_static.a <= <NDK>/sources/cxx-stl/gnu-libstdc++/libs/armeabi/
+Compile++ thumb  : cocos2dx_static <= CCConfiguration.cpp
+Compile++ thumb  : cocos2dx_static <= CCDrawingPrimitives.cpp
+Compile++ thumb  : cocos2dx_static <= CCScheduler.cpp
+Compile++ thumb  : cocos2dx_static <= CCCamera.cpp
+Compile++ thumb  : cocos2dx_static <= CCAction.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionCamera.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionCatmullRom.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionEase.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionGrid.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionGrid3D.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionInstant.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionInterval.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionManager.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionPageTurn3D.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionProgressTimer.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionTiledGrid.cpp
+Compile++ thumb  : cocos2dx_static <= CCActionTween.cpp
+Compile++ thumb  : cocos2dx_static <= CCAtlasNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCAffineTransform.cpp
+Compile++ thumb  : cocos2dx_static <= CCGeometry.cpp
+Compile++ thumb  : cocos2dx_static <= CCAutoreleasePool.cpp
+Compile++ thumb  : cocos2dx_static <= CCDictionary.cpp
+Compile++ thumb  : cocos2dx_static <= CCNS.cpp
+Compile++ thumb  : cocos2dx_static <= CCObject.cpp
+Compile++ thumb  : cocos2dx_static <= CCSet.cpp
+Compile++ thumb  : cocos2dx_static <= CCString.cpp
+Compile++ thumb  : cocos2dx_static <= CCZone.cpp
+Compile++ thumb  : cocos2dx_static <= CCArray.cpp
+Compile++ thumb  : cocos2dx_static <= cocos2d.cpp
+Compile++ thumb  : cocos2dx_static <= CCDirector.cpp
+Compile++ thumb  : cocos2dx_static <= CCGrabber.cpp
+Compile++ thumb  : cocos2dx_static <= CCGrid.cpp
+Compile++ thumb  : cocos2dx_static <= CCNotificationCenter.cpp
+Compile++ thumb  : cocos2dx_static <= CCControl.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlButton.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlColourPicker.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlHuePicker.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlSaturationBrightnessPicker.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlSlider.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlSwitch.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlUtils.cpp
+Compile++ thumb  : cocos2dx_static <= CCInvocation.cpp
+Compile++ thumb  : cocos2dx_static <= CCMenuPassive.cpp
+Compile++ thumb  : cocos2dx_static <= CCScale9Sprite.cpp
+Compile++ thumb  : cocos2dx_static <= CCSpacer.cpp
+Compile++ thumb  : cocos2dx_static <= CCListView.cpp
+Compile++ thumb  : cocos2dx_static <= CCListViewCell.cpp
+Compile++ thumb  : cocos2dx_static <= CCTextureWatcher.cpp
+Compile++ thumb  : cocos2dx_static <= CCBFileLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCBReader.cpp
+C:/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/extensions/CCBReader/CCBReader.cpp:139:52: warning: multi-character character constant
+Compile++ thumb  : cocos2dx_static <= CCNodeLoaderLibrary.cpp
+Compile++ thumb  : cocos2dx_static <= CCNodeLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlButtonLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCControlLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCLabelBMFontLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCLabelTTFLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCLayerLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCLayerColorLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCLayerGradientLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCMenuItemLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCMenuItemImageLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCSpriteLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCScale9SpriteLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCScrollViewLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleSystemQuadLoader.cpp
+Compile++ thumb  : cocos2dx_static <= CCScrollView.cpp
+Compile thumb  : cocos2dx_static <= aabb.c
+Compile thumb  : cocos2dx_static <= mat3.c
+Compile thumb  : cocos2dx_static <= mat4.c
+Compile thumb  : cocos2dx_static <= neon_matrix_impl.c
+Compile thumb  : cocos2dx_static <= plane.c
+Compile thumb  : cocos2dx_static <= quaternion.c
+C:/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/kazmath/src/quaternion.c: In function 'kmQuaternionAssign':
+C:/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/kazmath/src/quaternion.c:478: warning: incompatible implicit declaration of built-in function 'memcpy'
+Compile thumb  : cocos2dx_static <= ray2.c
+Compile thumb  : cocos2dx_static <= utility.c
+Compile thumb  : cocos2dx_static <= vec2.c
+Compile thumb  : cocos2dx_static <= vec3.c
+Compile thumb  : cocos2dx_static <= vec4.c
+C:/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/kazmath/src/vec4.c: In function 'kmVec4Assign':
+C:/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/kazmath/src/vec4.c:150: warning: incompatible implicit declaration of built-in function 'memcpy'
+Compile thumb  : cocos2dx_static <= mat4stack.c
+Compile thumb  : cocos2dx_static <= matrix.c
+Compile++ thumb  : cocos2dx_static <= CCKeypadDelegate.cpp
+Compile++ thumb  : cocos2dx_static <= CCKeypadDispatcher.cpp
+Compile++ thumb  : cocos2dx_static <= CCLabelAtlas.cpp
+Compile++ thumb  : cocos2dx_static <= CCLabelBMFont.cpp
+Compile++ thumb  : cocos2dx_static <= CCLabelTTF.cpp
+Compile++ thumb  : cocos2dx_static <= CCLayer.cpp
+Compile++ thumb  : cocos2dx_static <= CCScene.cpp
+Compile++ thumb  : cocos2dx_static <= CCTransitionPageTurn.cpp
+Compile++ thumb  : cocos2dx_static <= CCTransition.cpp
+Compile++ thumb  : cocos2dx_static <= CCTransitionProgress.cpp
+Compile++ thumb  : cocos2dx_static <= CCMenu.cpp
+Compile++ thumb  : cocos2dx_static <= CCMenuItem.cpp
+Compile++ thumb  : cocos2dx_static <= CCMotionStreak.cpp
+Compile++ thumb  : cocos2dx_static <= CCProgressTimer.cpp
+Compile++ thumb  : cocos2dx_static <= CCRenderTexture.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleExamples.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleSystem.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleBatchNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCParticleSystemQuad.cpp
+Compile++ thumb  : cocos2dx_static <= CCSAXParser.cpp
+Compile++ thumb  : cocos2dx_static <= CCThread.cpp
+Compile++ thumb  : cocos2dx_static <= platform.cpp
+Compile++ thumb  : cocos2dx_static <= CCEGLViewProtocol.cpp
+Compile++ thumb  : cocos2dx_static <= CCEGLView.cpp
+Compile++ thumb  : cocos2dx_static <= CCAccelerometer.cpp
+Compile++ thumb  : cocos2dx_static <= CCApplication.cpp
+Compile++ thumb  : cocos2dx_static <= CCCommon.cpp
+Compile++ thumb  : cocos2dx_static <= CCFileUtils.cpp
+Compile++ thumb  : cocos2dx_static <= CCImage.cpp
+Compile++ thumb  : cocos2dx_static <= JniHelper.cpp
+Compile++ thumb  : cocos2dx_static <= IMEJni.cpp
+Compile++ thumb  : cocos2dx_static <= MessageJni.cpp
+Compile++ thumb  : cocos2dx_static <= SensorJni.cpp
+Compile++ thumb  : cocos2dx_static <= SystemInfoJni.cpp
+Compile++ thumb  : cocos2dx_static <= TouchesJni.cpp
+Compile++ thumb  : cocos2dx_static <= CCScriptSupport.cpp
+Compile++ thumb  : cocos2dx_static <= ccShaders.cpp
+Compile++ thumb  : cocos2dx_static <= CCGLProgram.cpp
+Compile++ thumb  : cocos2dx_static <= ccGLStateCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCShaderCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCAnimation.cpp
+Compile++ thumb  : cocos2dx_static <= CCAnimationCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCSprite.cpp
+Compile++ thumb  : cocos2dx_static <= CCSpriteBatchNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCSpriteFrame.cpp
+Compile++ thumb  : cocos2dx_static <= CCSpriteFrameCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCProfiling.cpp
+Compile++ thumb  : cocos2dx_static <= CCPointExtension.cpp
+Compile++ thumb  : cocos2dx_static <= TransformUtils.cpp
+Compile++ thumb  : cocos2dx_static <= CCUserDefault.cpp
+Compile++ thumb  : cocos2dx_static <= base64.cpp
+Compile++ thumb  : cocos2dx_static <= ccUtils.cpp
+Compile++ thumb  : cocos2dx_static <= CCVertex.cpp
+Compile++ thumb  : cocos2dx_static <= ccCArray.cpp
+Compile++ thumb  : cocos2dx_static <= TGAlib.cpp
+Compile++ thumb  : cocos2dx_static <= ZipUtils.cpp
+Compile++ thumb  : cocos2dx_static <= ioapi.cpp
+Compile++ thumb  : cocos2dx_static <= unzip.cpp
+Compile++ thumb  : cocos2dx_static <= CCIMEDispatcher.cpp
+Compile++ thumb  : cocos2dx_static <= CCTextFieldTTF.cpp
+Compile++ thumb  : cocos2dx_static <= CCTexture2D.cpp
+Compile++ thumb  : cocos2dx_static <= CCTextureAtlas.cpp
+Compile++ thumb  : cocos2dx_static <= CCTextureCache.cpp
+Compile++ thumb  : cocos2dx_static <= CCTexturePVR.cpp
+Compile++ thumb  : cocos2dx_static <= CCParallaxNode.cpp
+Compile++ thumb  : cocos2dx_static <= CCTMXLayer.cpp
+Compile++ thumb  : cocos2dx_static <= CCTMXObjectGroup.cpp
+Compile++ thumb  : cocos2dx_static <= CCTMXTiledMap.cpp
+Compile++ thumb  : cocos2dx_static <= CCTMXXMLParser.cpp
+Compile++ thumb  : cocos2dx_static <= CCTileMapAtlas.cpp
+Compile++ thumb  : cocos2dx_static <= CCTouchDispatcher.cpp
+Compile++ thumb  : cocos2dx_static <= CCTouchHandler.cpp
+Prebuilt       : png.a <= /cygdrive/c/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/platform/third_party/android/prebuilt/libpng/libs/armeabi/
+Prebuilt       : jpeg.a <= /cygdrive/c/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/platform/third_party/android/prebuilt/libjpeg/libs/armeabi/
+Prebuilt       : xml2.a <= /cygdrive/c/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/platform/third_party/android/prebuilt/libxml2/libs/armeabi/
+Prebuilt       : tiff.a <= /cygdrive/c/Development/cocos2d-2.0-rc2-x-2.0.1/cocos2dx/platform/third_party/android/prebuilt/libtiff/libs/armeabi/
+StaticLibrary  : libcocos2d.a
+Compile++ thumb  : cocosdenshion_static <= SimpleAudioEngine.cpp
+Compile++ thumb  : cocosdenshion_static <= SimpleAudioEngineJni.cpp
+StaticLibrary  : libcocosdenshion.a
+Compile++ thumb  : box2d_static <= b2ChainShape.cpp
+Compile++ thumb  : box2d_static <= b2CircleShape.cpp
+Compile++ thumb  : box2d_static <= b2EdgeShape.cpp
+Compile++ thumb  : box2d_static <= b2PolygonShape.cpp
+Compile++ thumb  : box2d_static <= b2BroadPhase.cpp
+Compile++ thumb  : box2d_static <= b2CollideCircle.cpp
+Compile++ thumb  : box2d_static <= b2CollideEdge.cpp
+Compile++ thumb  : box2d_static <= b2CollidePolygon.cpp
+Compile++ thumb  : box2d_static <= b2Collision.cpp
+Compile++ thumb  : box2d_static <= b2Distance.cpp
+Compile++ thumb  : box2d_static <= b2DynamicTree.cpp
+Compile++ thumb  : box2d_static <= b2TimeOfImpact.cpp
+Compile++ thumb  : box2d_static <= b2BlockAllocator.cpp
+Compile++ thumb  : box2d_static <= b2Draw.cpp
+Compile++ thumb  : box2d_static <= b2Math.cpp
+Compile++ thumb  : box2d_static <= b2Settings.cpp
+Compile++ thumb  : box2d_static <= b2StackAllocator.cpp
+Compile++ thumb  : box2d_static <= b2Timer.cpp
+Compile++ thumb  : box2d_static <= b2ChainAndCircleContact.cpp
+Compile++ thumb  : box2d_static <= b2ChainAndPolygonContact.cpp
+Compile++ thumb  : box2d_static <= b2CircleContact.cpp
+Compile++ thumb  : box2d_static <= b2Contact.cpp
+Compile++ thumb  : box2d_static <= b2ContactSolver.cpp
+Compile++ thumb  : box2d_static <= b2EdgeAndCircleContact.cpp
+Compile++ thumb  : box2d_static <= b2EdgeAndPolygonContact.cpp
+Compile++ thumb  : box2d_static <= b2PolygonAndCircleContact.cpp
+Compile++ thumb  : box2d_static <= b2PolygonContact.cpp
+Compile++ thumb  : box2d_static <= b2DistanceJoint.cpp
+Compile++ thumb  : box2d_static <= b2FrictionJoint.cpp
+Compile++ thumb  : box2d_static <= b2GearJoint.cpp
+Compile++ thumb  : box2d_static <= b2Joint.cpp
+Compile++ thumb  : box2d_static <= b2MouseJoint.cpp
+Compile++ thumb  : box2d_static <= b2PrismaticJoint.cpp
+Compile++ thumb  : box2d_static <= b2PulleyJoint.cpp
+Compile++ thumb  : box2d_static <= b2RevoluteJoint.cpp
+Compile++ thumb  : box2d_static <= b2RopeJoint.cpp
+Compile++ thumb  : box2d_static <= b2WeldJoint.cpp
+Compile++ thumb  : box2d_static <= b2WheelJoint.cpp
+Compile++ thumb  : box2d_static <= b2Body.cpp
+Compile++ thumb  : box2d_static <= b2ContactManager.cpp
+Compile++ thumb  : box2d_static <= b2Fixture.cpp
+Compile++ thumb  : box2d_static <= b2Island.cpp
+Compile++ thumb  : box2d_static <= b2World.cpp
+Compile++ thumb  : box2d_static <= b2WorldCallbacks.cpp
+Compile++ thumb  : box2d_static <= b2Rope.cpp
+StaticLibrary  : libbox2d.a
+SharedLibrary  : libgame.so
+./obj/local/armeabi/objs-debug/game_shared/__/__/Classes/HelloWorldScene.o: In function `HelloWorld::isCollisionBetweenSpriteA(cocos2d::CCSprite*, cocos2d::CCSprite*, bool)':
+C:\Development\cocos2d-2.0-rc2-x-2.0.1\test1\proj.android/jni/../../Classes/HelloWorldScene.cpp:228: undefined reference to `glColor4f'
+C:\Development\cocos2d-2.0-rc2-x-2.0.1\test1\proj.android/jni/../../Classes/HelloWorldScene.cpp:237: undefined reference to `glColor4f'
+C:\Development\cocos2d-2.0-rc2-x-2.0.1\test1\proj.android/jni/../../Classes/HelloWorldScene.cpp:245: undefined reference to `glColor4f'
+collect2: ld returned 1 exit status
+/cygdrive/c/NVPACK/android-ndk-r8/build/core/build-binary.mk:369: recipe for target `obj/local/armeabi/libgame.so' failed
+make: *** [obj/local/armeabi/libgame.so] Error 1
+make: Leaving directory `/cygdrive/c/Development/cocos2d-2.0-rc2-x-2.0.1/test1/proj.android'
